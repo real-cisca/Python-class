@@ -1,0 +1,4 @@
+A mechanical engineer who owns a company called mechatronics tech limited has staff who focus on hydraulics press, panel beating, 
+electrical rewiring, the other staff focus on maintaining various car parts. The company is situated in 5 different locations Lagos, 
+Aba, abuja, Ilorin, and Benin. The owner of the company decides to create a tuple effect involving the maximum number of cars and 
+the minimum number in all various locations accross the nation. Deduce the brain teaser above. 
